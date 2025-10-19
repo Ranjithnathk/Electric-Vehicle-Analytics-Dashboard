@@ -11,6 +11,9 @@ Powering the Future: Electric Vehicle Adoption Insights
 This Tableau dashboard presents a data-driven analysis of electric vehicle adoption across the United States, built on Electric Vehicle Population Data by data.gov.
 It visualizes nationwide EV trends, manufacturer dominance, and clean-fuel eligibility insights through interactive KPIs, geospatial maps, and year-wise adoption charts.
 
+## Preview
+![EV Analytics Dashboard Preview](https://github.com/Ranjithnathk/Electric-Vehicle-Analytics-Dashboard/blob/main/images/Dashboard_Preview.png)
+
 ## Key Insights
 - EV adoption peaked in 2023, reflecting strong market acceleration
 - Tesla dominates 56 % of total registered EVs
